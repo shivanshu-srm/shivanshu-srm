@@ -1,7 +1,7 @@
 ## Hi there !!👋   Myself Shivanshu Dixit
 
 #  About Me:
-Hi! I'm a third year computer science student skilled in many programming languages. Proficient in Website and iOS app development, with a keen interest in research, data analytics and machine learning . I am honored to be among the top 1 % of students selected for a collaborative opportunity with Apple and Infosys. Combining strong programming abilities with a passion for tech exploration, demonstrating a well rounded understanding of both practical and theoretical aspects of computer science.
+Hi! I'm a final year computer science student skilled in many programming languages. Proficient in Website and iOS app development, with a keen interest in research, data analytics and machine learning . I am honored to be among the top 1 % of students selected for a collaborative opportunity with Apple and Infosys. Combining strong programming abilities with a passion for tech exploration, demonstrating a well rounded understanding of both practical and theoretical aspects of computer science.
 
 
 ## 🌐 Socials:
